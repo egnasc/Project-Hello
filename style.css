@@ -213,22 +213,3 @@ h3{
     }
 }
 
-.text11 {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 200px; /* Defina a largura conforme necessário */
-    color: #fff; /* Defina a cor conforme necessário */
-    font-size: 38px; /* Defina o tamanho da fonte conforme necessário */
-    font-family: 'CustomFont', sans-serif; /* Aplique a nova fonte */
-    animation: wave 2s infinite;
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #f1015d, 0 0 20px #f1015d, 0 0 25px rgb(255, 0, 21), 0 0 30px rgb(153, 0, 255), 0 0 35px #00f;
-}
-
-.text11.left {
-    left: 10%; /* Ajuste a distância da borda esquerda conforme necessário */
-}
-
-.text11.right {
-    right: 10%; /* Ajuste a distância da borda direita conforme necessário */
-}
