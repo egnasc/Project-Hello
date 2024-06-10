@@ -20,13 +20,13 @@ const songs = [
         artist: 'Japa',
     },
     {
-        path: 'assets/music2.flac',
+        path: 'assets/music2.mp3',
         displayName: 'Te amo desgraça',
         cover: 'assets/img2.jpg',
         artist: 'baco exu',
     },
     {
-        path: 'assets/music3.flac',
+        path: 'assets/music3.mp3',
         displayName: 'Samba in Paris',
         cover: 'assets/img3.jpg',
         artist: 'baco exu',
